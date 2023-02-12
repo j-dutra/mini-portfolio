@@ -21,7 +21,7 @@ Caracteristicas do projeto:
 <img src="./assets/img/dark-screen.png" style = 'width: 400px; height: auto;'>
 
 <br>
-___________________________________________________________________________________
+
 CRÉDITOS LAYOUT:
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
